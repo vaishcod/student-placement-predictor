@@ -7,7 +7,7 @@
 
 ## 🔗 Live Demo
 
-👉 
+👉 https://student-placement-predictor-woqdwdv6vka99anhve9wqq.streamlit.app/
 
 ---
 
