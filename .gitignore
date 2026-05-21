@@ -1,0 +1,30 @@
+# Python build and cache artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+backend/placement_model.pkl
+backend/synthetic_placement_data.csv
+.env
+.env.local
+
+# Node / Next.js artifacts
+node_modules/
+.next/
+out/
+build/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env*.local
+
+# IDE / System files
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+TASK1.docx
+TASK1.pdf
+del
+pip
